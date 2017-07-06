@@ -1,0 +1,27 @@
+<dspace-dc-types>
+
+    <dspace-header>
+        <title>Atmire Metadata</title>
+    </dspace-header>
+
+    <dc-schema>
+        <name>atmire</name>
+        <namespace>http://atmire.com</namespace>
+    </dc-schema>
+
+
+    <dc-type>
+        <schema>atmire</schema>
+        <element>rating</element>
+        <qualifier>average</qualifier>
+        <scope_note>Metadata field used for to store the average rating</scope_note>
+    </dc-type>
+
+    <dc-type>
+        <schema>atmire</schema>
+        <element>rating</element>
+        <qualifier>number</qualifier>
+        <scope_note>Metadata field used to store the actual rating</scope_note>
+    </dc-type>
+
+</dspace-dc-types>

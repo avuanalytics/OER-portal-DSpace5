@@ -2,8 +2,9 @@
 <document xmlns="http://di.tamu.edu/DRI/1.0/" xmlns:i18n="http://apache.org/cocoon/i18n/2.1" version="1.1">
 <body>
 <div id="file.news.div.news" n="news" rend="primary">
-<head>DSpace Repository</head>
-<p>DSpace is a digital service that collects, preserves, and distributes digital material. Repositories are important tools for preserving an organization&apos;s legacy; they facilitate digital preservation and scholarly communication.</p>
+<head>OER@AVU Portal</head>
+    <p>The OER@AVU Portal is an initiative of the <xref target="http://www.avu.org/">African Virtual University</xref>.</p>
+    <p>African Virtual University (AVU) is a Pan African Intergovernmental Organization whose aim is to significantly increase access to quality higher education and training through the innovative use of Information and Communication Technologies.</p>
 </div>
 </body>
 <options/>

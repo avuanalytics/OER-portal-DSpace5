@@ -1,0 +1,36 @@
+{
+  "name": "Mirage2",
+  "version": "0.1.1",
+  "dependencies": {
+    "bootstrap-sass": "3.3.0",
+    "datatables": "1.10.5",
+    "font-awesome": "^4.7.0",
+    "handlebars": "2.0.0",
+    "holderjs": "2.6.0",
+    "html5shiv": "3.7.3",
+    "jquery": "~1.12.4",
+    "jquery-ui-dist": "^1.12.1",
+    "respond.min.js": "1.4.2"
+  },
+  "devDependencies": {
+    "autoprefixer": "^6.5.3",
+    "cssnano": "^3.8.0",
+    "grunt": "~0.4.4",
+    "grunt-cli": "0.1.13",
+    "grunt-contrib-coffee": "~0.7.0",
+    "grunt-contrib-compass": "~0.6.0",
+    "grunt-contrib-concat": "~0.3.0",
+    "grunt-contrib-copy": "~0.5.0",
+    "grunt-contrib-handlebars": "0.9.0",
+    "grunt-contrib-uglify": "~0.4.0",
+    "grunt-contrib-watch": "^1.0.0",
+    "grunt-postcss": "^0.8.0",
+    "grunt-usemin": "~2.1.0",
+    "load-grunt-tasks": "~0.1.0",
+    "pixrem": "^3.0.2",
+    "time-grunt": "~0.1.1"
+  },
+  "engines": {
+    "node": ">=0.10.17"
+  }
+}

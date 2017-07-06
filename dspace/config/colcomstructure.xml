@@ -1,0 +1,150 @@
+<import_structure>
+    <community>
+        <name>English</name>
+        <intro>English Resources</intro>
+        <copyright>Creative Commons</copyright>
+        <community>
+            <name>Biology En</name>
+            <collection>
+                <name>AVU Resources En - Biology</name>
+            </collection>
+        </community>
+        <community>
+            <name>Chemistry En</name>
+            <collection>
+                <name>AVU Resources En - Chemistry</name>
+            </collection>
+        </community>
+        <community>
+            <name>ICT Basic Skills En</name>
+            <collection>
+                <name>AVU Resources En - ICT Basic Skills</name>
+            </collection>
+        </community>
+        <community>
+            <name>ICT Integration in Education En</name>
+            <collection>
+                <name>AVU Resources En - ICT Integration in Education</name>
+            </collection>
+        </community>
+        <community>
+            <name>Intellectual Property Rights En</name>
+            <collection>
+                <name>AVU Resources En - Intellectual Property Rights</name>
+            </collection>
+            <collection>
+                <name>Contributed Resources En - Intellectual Property Rights</name>
+            </collection>
+        </community>
+        <community>
+            <name>Mathematics En</name>
+            <collection>
+                <name>Contributed Resources En - Intellectual Property Rights</name>
+            </collection>
+        </community>
+        <community>
+            <name>Physics En</name>
+            <collection>
+                <name>AVU Resources En - Physics</name>
+            </collection>
+        </community>
+        <community>
+            <name>Teacher Education En</name>
+            <collection>
+                <name>AVU Resources En - Teacher Education</name>
+            </collection>
+        </community>
+    </community>
+    <community>
+        <name>Français</name>
+        <intro>Français</intro>
+        <community>
+            <name>Biologie Fr</name>
+            <collection>
+                <name>Ressources UVA Fr - Biologie</name>
+            </collection>
+        </community>
+        <community>
+            <name>Chimie Fr</name>
+            <collection>
+                <name>Ressources UVA Fr - Chimie</name>
+            </collection>
+        </community>
+        <community>
+            <name>Compétences de base en TIC Fr</name>
+            <collection>
+                <name>Ressources UVA Fr - Compétences de base en TIC</name>
+            </collection>
+        </community>
+        <community>
+            <name>Formation des Enseignants Fr</name>
+            <collection>
+                <name>Ressources UVA Fr - Formation des Enseignants</name>
+            </collection>
+        </community>
+        <community>
+            <name>Intégration des TIC en Éducation Fr</name>
+            <collection>
+                <name>Ressources UVA Fr - Intégration des TIC en Éducation</name>
+            </collection>
+        </community>
+        <community>
+            <name>Mathematiques Fr</name>
+            <collection>
+                <name>Ressources UVA Fr - Mathematiques</name>
+            </collection>
+        </community>
+        <community>
+            <name>Physique Fr</name>
+            <collection>
+                <name>Ressources UVA Fr - Physique</name>
+            </collection>
+        </community>
+    </community>
+    <community>
+        <name>Português</name>
+        <intro>Português</intro>
+        <community>
+            <name>Biologia Pt</name>
+            <collection>
+                <name>Recursos UVA Pt - Biologia</name>
+            </collection>
+        </community>
+        <community>
+            <name>Competências Básicas em TIC Pt</name>
+            <collection>
+                <name>Recursos UVA Pt - Competências Básicas em TIC</name>
+            </collection>
+        </community>
+        <community>
+            <name>Física Pt</name>
+            <collection>
+                <name>Recursos UVA Pt - Física</name>
+            </collection>
+        </community>
+        <community>
+            <name>Integração das TIC na Educação Pt</name>
+            <collection>
+                <name>Recursos UVA Pt - Integração das TIC na Educação</name>
+            </collection>
+        </community>
+        <community>
+            <name>Matemática Pt</name>
+            <collection>
+                <name>Recursos UVA Pt - Matemática</name>
+            </collection>
+        </community>
+        <community>
+            <name>Psicopedagogicas Pt</name>
+            <collection>
+                <name>Recursos UVA Pt - Psicopedagogicas</name>
+            </collection>
+        </community>
+        <community>
+            <name>Química Pt</name>
+            <collection>
+                <name>Recursos UVA Pt - Química</name>
+            </collection>
+        </community>
+    </community>
+</import_structure>

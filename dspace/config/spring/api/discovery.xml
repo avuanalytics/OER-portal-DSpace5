@@ -97,7 +97,7 @@
             <list>
                 <ref bean="searchFilterAuthor" />
                 <ref bean="searchFilterSubject" />
-                <ref bean="searchFilterIssued" />
+                <!--<ref bean="searchFilterIssued" />-->
             </list>
         </property>
         <!-- Set TagCloud configuration per discovery configuration -->
@@ -201,8 +201,8 @@
         <property name="sidebarFacets">
             <list>
                 <ref bean="searchFilterAuthor" />
-                <ref bean="searchFilterSubject" />
-                <ref bean="searchFilterIssued" />
+                <!--<ref bean="searchFilterSubject" />-->
+                <!--<ref bean="searchFilterIssued" />-->
             </list>
         </property>
         <!-- Set TagCloud configuration per discovery configuration -->
@@ -235,7 +235,7 @@
             <bean class="org.dspace.discovery.configuration.DiscoveryRecentSubmissionsConfiguration">
                 <property name="metadataSortField" value="dc.date.accessioned" />
                 <property name="type" value="date"/>
-                <property name="max" value="5"/>
+                <property name="max" value="1"/>
                 <property name="useAsHomePage" value="false"/>
             </bean>
         </property>
@@ -378,7 +378,7 @@
                 <value>dc.creator</value>
             </list>
         </property>
-        <property name="facetLimit" value="10"/>
+        <property name="facetLimit" value="5"/>
         <property name="sortOrder" value="COUNT"/>
     </bean>
 
@@ -389,7 +389,7 @@
                 <value>dc.subject.*</value>
             </list>
         </property>
-        <property name="facetLimit" value="10"/>
+        <property name="facetLimit" value="5"/>
         <property name="sortOrder" value="COUNT"/>
         <property name="splitter" value="::"/>
     </bean>
@@ -401,6 +401,7 @@
                 <value>dc.date.issued</value>
             </list>
         </property>
+        <property name="facetLimit" value="5"/>
         <property name="type" value="date"/>
         <property name="sortOrder" value="VALUE"/>
     </bean>

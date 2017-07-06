@@ -1,0 +1,53 @@
+@media (min-width: $screen-sm-min) {
+  .homepage-block {
+    flex-basis: 48%;
+  }
+}
+
+@media (max-width: $screen-sm-min) {
+  .homepage-block {
+    flex-basis: 100%;
+  }
+}
+
+.homepage-content {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+
+.homepage-block {
+  border: solid 4px $avu-navbar-green-secondary;
+  margin-bottom:30px;
+  background-color: white;
+
+
+  h3 {
+    background-color: $avu-nav-bar-green;
+    color: white;
+    margin: 0;
+    padding: 10px 15px;
+  }
+
+  .homepage-block-content {
+    padding: 10px 15px;
+  }
+
+}
+
+div#aspect_discovery_SiteRecentSubmissions_div_site-home {
+  border: solid 4px $avu-navbar-green-secondary;
+  background-color: white;
+
+  h3 {
+    background-color: black;
+    color: white;
+    margin:0;
+    padding: 10px 15px;
+  }
+
+  #aspect_discovery_SiteRecentSubmissions_div_site-recent-submission {
+    padding: 10px 15px
+  }
+
+}

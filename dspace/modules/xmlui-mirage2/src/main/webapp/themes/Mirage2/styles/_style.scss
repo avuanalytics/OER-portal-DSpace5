@@ -11,13 +11,24 @@
  * It will be included in all color schemes
  */
 
-//example mixin to set the text-selection style
-@mixin selection {
-    ::-moz-selection { @content; }
-    ::selection { @content; }
+.thumbnail, .file-metadata, .file-link {
+    margin-top: 4px;
+
+    img {
+        border: 4px solid $sidebar-border-color;
+    }
 }
 
-@include selection {
-    color: white;
-    background: hotpink;
+#aspect_discovery_SimpleSearch_div_search-results img {
+    height: 180px;
+}
+
+
+
+.italic {
+    font-style: italic;
+}
+
+.underline {
+    text-decoration: underline;
 }
